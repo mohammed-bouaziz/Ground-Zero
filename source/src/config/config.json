@@ -1,0 +1,26 @@
+{
+  "site": {
+    "title": "Ground Zero ",
+    "base_url": "https://groundzeero.com",
+    "base_path": "/",
+    "favicon": "/fav.png",
+    "logoLight": "/logo_l.png",
+    "logoDark": "/logo_d.png",
+    "lang": "en",
+    "description": "Ground Zero take's the obscurity and mystery out of Computer Science, Artificial Intelligence, Deep Learning and Software engineering. We start from scratch, in an atomic manner to understand the complex nature of these subjects. Here you will have a profound and complete understanding of the math, logic and concepts behind AI, ML, Deep Learning and Computer science, and you will be able to build some amazing technology that once appeared magical and beyond reach.",
+    "pageSize": 6
+  },
+  "features": {
+    "youtube": true,
+    "dark_mode": true
+  },
+  "metadata": {
+    "meta_author": "Mohammed Bouaziz",
+    "meta_description": "The math, logic and concepts behind AI, ML, Deep Learning and Computer science, No More Magic, only Science."
+  },
+  "author": {
+    "name": "From Scratch to Artificial Intelligence.",
+    "avatar": "/profile.jpg",
+    "bio": "The Math, Logic and Code behind AI, ML, Deep Learning and Computer science. \nUnderstand and build, atomically and from scratch."
+  }
+}
